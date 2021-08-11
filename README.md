@@ -1,2 +1,2 @@
 # Open-Joystick-Panel
-TEST
+Open source joystick layout designs, and firmware.
